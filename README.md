@@ -1,6 +1,3 @@
-# data-challenge-sql
-Try this data challenge with SQL only
-
 ## Looking for real world SQL challenge ?
 If you want to test your SQL skills you can try to complete this challenge. But you can use only SQL, preferably T-SQL to complete this.
 
@@ -9,7 +6,7 @@ A media company has send out an email to 20.000 customers asking them to partici
 
 Every email has an unique link to the online survey, what makes is unique is an identifier in the link. 
 
-In order for the media company to send the email and data export was made containing the IDs and the unique links and loaded into the email platform.
+In order for the media company to send the email an data export was made containing the IDs and the unique links and loaded into the email platform.
 
 #### The winners
 The winners are selected by the third party and this party will also deliver unique card numbers and pin numbers to be distributed to the winners. 
