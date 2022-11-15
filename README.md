@@ -27,3 +27,4 @@ There are 3 files in this challenge.
 The media company have asked you to make an export of the winners and assigned to it the card numbers and pin codes. The export should be an CSV file so that it can be used in the email platform where it will send an email to the winners. You should use only SQL to accomplish this task.
 
 ##### Notes
+If you want to complete this and share your solution, please upload the SQL script that you used to export the final CSV file.
