@@ -9,8 +9,10 @@ Every email has an unique link to the online survey, what makes is unique is an 
 In order for the media company to send the email an data export was made containing the IDs and the unique links and loaded into the email platform.
 
 #### The winners
-The winners are selected by the third party and this party will also deliver unique card numbers and pin numbers to be distributed to the winners. 
+The winners are selected by the third party and IDs are delivered to the media company. 
 
+#### The giftcards
+The giftcards are delivered to the media company by another third party
 
 #### The files
 There are 3 files in this challenge.
@@ -21,7 +23,9 @@ There are 3 files in this challenge.
 
 
 ### Your task
-The media company have asked you to make an export of the winners and assigned to it the card numbers and pin codes. The export should be an CSV file so that it can be used in the email platform where it will send an email to the winners. You should use only SQL to accomplish this task.
+The media company have asked you to make an export of the winners and assigned to it the card numbers and pin codes. The export should be an CSV file so that it can be used in the email platform where it will send an email to the winners. The correct customers should be selected by ID in the links. 
+
+You should use only SQL to accomplish this task.
 
 ##### Notes
 If you want to complete this and share your solution, please upload the SQL script that you used to export the final CSV file. You can also share an notebook file for instance.
