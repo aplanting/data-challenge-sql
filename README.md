@@ -18,13 +18,13 @@ The winners are selected by the third party and this party will also deliver uni
 #### The files
 There are 3 files in this challenge.
 
-1 file containing the original selection made by the media company containing the user IDs and the unique link to the survey.
-2 file containing the selected winners by the third party containing an ID that is found in the unique link
-3 file with unique card numbers, pin numbers and the value of the card.
+- file containing the original selection made by the media company containing the user IDs and the unique link to the survey.
+- file containing the selected winners by the third party containing an ID that is found in the unique link
+- file with unique card numbers, pin numbers and the value of the card.
 
 
 ### Your task
 The media company have asked you to make an export of the winners and assigned to it the card numbers and pin codes. The export should be an CSV file so that it can be used in the email platform where it will send an email to the winners. You should use only SQL to accomplish this task.
 
 ##### Notes
-If you want to complete this and share your solution, please upload the SQL script that you used to export the final CSV file.
+If you want to complete this and share your solution, please upload the SQL script that you used to export the final CSV file. You can also share an notebook file for instance.
