@@ -25,3 +25,5 @@ The media company have asked you to make an export of the winners and assigned t
 
 ##### Notes
 If you want to complete this and share your solution, please upload the SQL script that you used to export the final CSV file. You can also share an notebook file for instance.
+
+*But be carefull, maybe there is something wrong with the data.........*
