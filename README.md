@@ -28,6 +28,6 @@ The media company have asked you to make an export of the winners and assigned t
 You should use only SQL to accomplish this task.
 
 ##### Notes
-If you want to complete this and share your solution, please upload the SQL script that you used to export the final CSV file. You can also share an notebook file for instance.
+If you want to complete this and share your solution, please upload the SQL script that you used to export the final CSV file. You can also share an notebook file for instance. You can do so in the ***issue*** section
 
 *But be carefull, maybe there is something wrong with the data.........*
