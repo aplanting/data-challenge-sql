@@ -2,7 +2,7 @@
 If you want to test your SQL skills you can try to complete this challenge. But you can use only SQL, preferably T-SQL to complete this.
 
 ### The challenge
-A media company has send out an email to 20.000 customers asking them to participate in an online survey. If they complete the survey they are eligible for an giftcard for an online shop, see it as an discount card. The survey was requested by an third party. Amongst the participants 150 giftcards will be awarded with an valua of 5 euro's.
+A media company has send out an email to 10.000 customers asking them to participate in an online survey. If they complete the survey they are eligible for an giftcard for an online shop, see it as an discount card. The survey was requested by an third party. Amongst the participants 150 giftcards will be awarded with an valua of 5 euro's.
 
 Every email has an unique link to the online survey, what makes is unique is an identifier in the link. 
 
