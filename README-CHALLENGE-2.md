@@ -1,5 +1,5 @@
 ## Second challenge
-The second challenge is the same as the first but now we have giftcards for the first 10 participants that completed the survey first.
+The second challenge is the same as the first but now we have giftcards for 10 participants that completed the survey first.
 
 10 participants will get an giftcard for 10 euro. The rest will get an giftcard for 5 euro.
 
