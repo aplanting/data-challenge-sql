@@ -17,9 +17,9 @@ The giftcards are delivered to the media company by another third party
 #### The files
 There are 3 files in this challenge.
 
-- file containing the original selection made by the media company containing the user IDs and the unique link to the survey.
-- file containing the selected winners by the third party containing an ID that is found in the unique link
-- file with unique card numbers, pin numbers and the value of the card.
+- file containing the original selection made by the media company containing the user IDs and the unique link to the survey. (customer_ids_links.csv)
+- file containing the selected winners by the third party containing an ID that is found in the unique link. (winners.csv)
+- file with unique card numbers, pin numbers and the value of the card. (giftcards.csv)
 
 
 ### Your task
